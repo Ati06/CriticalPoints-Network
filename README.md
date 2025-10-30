@@ -3,7 +3,7 @@
 **A PyTorch implementation of the CPL paper (CVPR 2020) with a PointNet baseline for ModelNet40 classification.**
 
 ## How to run
-This project has been tested with :
+This project has been tested on :
 ```bash
 Python - 3.9
 PyTorch - 2.4.0
